@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Tim Barsch](mailto:tim.barsch@owasp.org)
+* [Nick Lorenz](mailto:tim.barsch@owasp.org)
