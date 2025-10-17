@@ -1,0 +1,22 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Tim Barsch
+    email: tim.barsch@owasp.org
+  - name: Nick Lorenz
+    email: nick.lorenz@owasp.org
+    github: Sharkeonix
+level: 2
+name: OWASP Infrastructure Security Testing Guide
+pitch: OWASP Infrastructure Security Testing Guide
+repositories:
+  - name: www-project-infrastructure-security-testing-guide
+    url: https://github.com/OWASP/www-project-infrastructure-security-testing-guide
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-infrastructure-security-testing-guide
